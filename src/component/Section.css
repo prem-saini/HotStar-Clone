@@ -1,0 +1,39 @@
+.lo {
+    position: relative;
+}
+
+.para {
+    position: absolute;
+    top: -450px;
+    left: 380px;
+    color: white;
+    font-size: 64px;
+    /* z-index: 2000; */
+}
+
+.text12 {
+    position: absolute;
+    top: -350px;
+    left: 430px;
+    color: white;
+    font-size: 18px;
+
+
+
+
+}
+
+.o {
+
+    color: orange;
+    font-size: bold;
+    font-size: 72px;
+}
+
+.ioo {
+    z-index: 5000 !important;
+}
+
+.goooo {
+    z-index: -5000 !important;
+}

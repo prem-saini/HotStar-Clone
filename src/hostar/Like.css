@@ -1,0 +1,94 @@
+.vop {
+    background-color: #141b29;
+}
+
+.rember {
+    position: absolute;
+    left: 10%;
+
+    z-index: 2;
+    background-color: #141b29;
+    color: white;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.rembers {
+    position: absolute;
+    left: 20%;
+
+    z-index: 2;
+    background-color: #141b29;
+    color: white;
+    width: 150px;
+    border-radius: 10px;
+
+}
+
+.rembers1 {
+    position: absolute;
+    left: 30%;
+
+    z-index: 2;
+    background-color: #141b29;
+    color: white;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.nav-text {
+    cursor: pointer;
+}
+
+.nav-text:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.hotstar-item {
+    cursor: pointer;
+
+    transition-duration: ease-in 2s;
+    transform: scale(1, 1);
+}
+
+.hotstar-item .uo {
+    opacity: 0;
+    margin-top: -50px;
+}
+
+
+
+.hotstar-item:hover {
+    transition-duration: ease-in 5s;
+    transform: scale(1.2, 1.2);
+}
+
+.hotstar-item:hover .uo:hover {
+    opacity: 1;
+}
+
+.hotstar-type {
+    font-size: 12px;
+
+}
+
+.hotstar-type1 {
+    font-size: 10px;
+
+}
+
+.hotstar-type2 {
+    font-size: 8px;
+
+}
+
+.hotstar-type3 {
+    font-size: 12px;
+    color: yellow;
+
+}
+
+.blur-img {
+    box-shadow: inset -8px -8px 8px 15px;
+}

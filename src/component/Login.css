@@ -1,0 +1,60 @@
+.Login_text {
+    color: #4646A3;
+    font-size: 38px;
+
+}
+
+.Login_Text {
+
+    font-size: 20px;
+}
+
+.login_account {
+    color: #00B074;
+    text-decoration: none;
+}
+
+body {
+    background-color: #EFEFEF;
+}
+
+.login_forgot {
+    color: #4646A3;
+    font-size: 16px;
+}
+
+.btn_Sign {
+    background-color: #4646A3;
+    color: white;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+}
+
+.login_remeber {
+    color: #00B074;
+}
+
+.login_remeb {
+    color: #00B074;
+    width: 20px;
+    height: 20px;
+}
+
+.Login_img {
+    width: 423px;
+    height: 358px;
+}
+
+.side_img {
+    margin-top: 155px;
+}
+
+@media screen and (max-width:768px) {
+    .responsive {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}

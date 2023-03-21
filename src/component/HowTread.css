@@ -1,0 +1,34 @@
+.Tread_img {
+    width: 100%;
+    height: 200px;
+}
+
+.howTread_text {
+    position: absolute;
+    top: 150px;
+    left: 40%;
+
+}
+
+.card_title1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-title12 {
+    background-color: #C7C7C7;
+    font-size: 14px;
+    width: 55%;
+
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.card-text12 {
+    color: #44475B;
+    font-size: 14px;
+}
